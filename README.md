@@ -1,4 +1,4 @@
-### Hi there, I'm ✨ [Alfred][website] ✨ - as [KilukruMedia][websitekm] 👋 
+### HI, I´m Alessandro 👋🏼✨
 <!--
 **alessandrohuaytac/alessandrohuaytac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
