@@ -22,9 +22,23 @@ code: [C++, Python, HTML, CSS],
 ```
 
 ---
-You can Find me 🌐
+### You can Find me 🌐
 - [Twitter](https://twitter.com/Alessan94765102)
 - [Linkedin](https://www.linkedin.com/in/alessandro-del-piero-huayta-ecos-a20bb0171/)
 - [Instagram](https://www.instagram.com/alessandro.he19/?hl=es)
 - [Facebook](https://www.facebook.com/piero.huaytaecos.5/)
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/790MZcdHLOJcQsrH43wT3v)
+
+---
+
+
+
+
+
 
