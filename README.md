@@ -5,10 +5,10 @@
 
 I am a Peruvian boy who has a very curious mind. I am always willing to know new things every day. I am a **student** currently studying **computer science**
 
-- 🌱  I’m currently learning ***everything*** 🤣*
+- 🌱  I’m currently learning ***everything*** 🤣
 - 💡 I love the new technologies that emerge every day
 - 😍 My hobbies are Watch anime🙄, series and movie🎥, play gam🎮, play instruments🎺 and program 👨‍💻
-- 🚀 One day I will fulfill my dream of giving happiness to the families who lost their members for unknown reasons using virtual reality to recreate them giving them the peace of mind that they are **well** 😉
+- 🚀 One day I will fulfill my dream of creating a virtual reality environment so that all people from different locations can connect to do an endless number of unimaginable things.
 - 💌 Contact me at [alessandro.huayta@gmail.com](mailto:alessandro.huayta@gmail.com).
 
 ---
@@ -17,6 +17,7 @@ I am a Peruvian boy who has a very curious mind. I am always willing to know new
 ```javascript
 const alessandrohuaytac = {
 pronouns:"he" | "him"
+age: 18
 code: [C++, Python, HTML, CSS],
 }
 ```
